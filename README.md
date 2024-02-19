@@ -1,11 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fantasque+Sans+Mono&weight=700&size=24&pause=1000&color=0e75b6&center=true&width=446&lines=Hello%2C+It's+aroterry💕😘;I+use+java+BTW)](https://git.io/typing-svg)
 
 
-<div align="center">
-   <a href="https://archlinux.org/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" alt="archlinux" width="40" height="40"/> 
-    </a>
-</div>
+
 
 <br>
 
